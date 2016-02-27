@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mandrill/mandrill": "^1.0",
+        "pda/pheanstalk": "^3.1"
+    }
+}

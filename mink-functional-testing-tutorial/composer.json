@@ -1,0 +1,7 @@
+{
+    "require": {
+        "phpunit/phpunit": "^4",
+        "behat/mink": "^1.7",
+        "behat/mink-sahi-driver": "^1.2"
+    }
+}

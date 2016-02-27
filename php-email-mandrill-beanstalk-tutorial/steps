@@ -1,0 +1,13 @@
+RUN composer require mandrill/mandrill pda/pheanstalk
+
+Configuring Mandrill account
+
+Configuring beanstalk on machine
+
+create send email script - which adds and email to be sent to the beanstalk queue
+
+create email worker script - which works the email queue and processes them with mandrill
+
+Running the worker
+
+Handling errors, handling dead letters, monitoring queue size, auditing email sending
