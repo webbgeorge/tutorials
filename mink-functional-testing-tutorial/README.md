@@ -5,7 +5,7 @@ This repository contains the code used in my tutorial blog post, named as above,
 
 ##### Installation #####
 
-* Clone this repository and cd to its top level.
+* Clone this repository and cd to this directory.
 
 * Run `composer install`
 
